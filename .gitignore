@@ -3,4 +3,5 @@ __pycache__/
 *.py[cod]
 .idea/
 *.sqlite*
+*.sqlite3*
 *.db3
